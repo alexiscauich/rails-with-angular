@@ -1,0 +1,2 @@
+web: bundle exec ng serve
+worker: bundle exec sidekiq
